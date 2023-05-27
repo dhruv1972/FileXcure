@@ -61,9 +61,9 @@ Follow these steps to get your development environment set up:
 Please replace the MongoDB and Azure Cloud storage connection string and access details with your own before running the app.
 
 ## Contributions
-If you encounter any problem or have any suggestions, please [file an issue](https://github.com/{username}/fileXcure/issues) or submit a [pull request](https://github.com/{username}/fileXcure/pulls).
+If you encounter any problem or have any suggestions, please [file an issue](https://github.com/dhruv1972/fileXcure/issues) or submit a [pull request](https://github.com/dhruv1972/fileXcure/pulls).
 
 ## License
-fileXcure is released under the [MIT License](https://opensource.org/licenses/MIT).
+fileXcure is released under the [MIT License](https://github.com/dhruv1972/fileXcure/LICENSE.md).
 
 **Note:** This README assumes you have Flutter, Dart, and an IDE installed and properly configured. If not, please refer to the official Flutter [documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
